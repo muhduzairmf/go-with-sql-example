@@ -4,12 +4,11 @@ import (
 	"database/sql"
 	"fmt"
 	"log"
-
 	// "github.com/go-sql-driver/mysql" # This is MySQL driver for go
 	// "github.com/mattn/go-sqlite3" # This is SQLite driver for go
 )
 
-// To install the database drive, run
+// To install the database driver, run
 // go get github.com/mattn/go-sqlite3
 // or, go get github.com/go-sql-driver/mysql
 
